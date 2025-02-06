@@ -22,10 +22,6 @@ Você só precisa clonar o repositório e testar, recomendo utilizar VSCODE e a 
 $ git clone https://github.com/Rafael-LynX/Jogo-do-numero-secreto.git
 ```
 
-## Download
-
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
-
 ## Tech
 
 - [Java](https://docs.oracle.com/javase/tutorial/index.html)
